@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "C:/Users/valen/Documents/GitHub/keyboard_fclub/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "C:/Users/valen/Documents/GitHub/keyboard_fclub/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "Legacy")(uri "C:/Users/valen/Documents/GitHub/keyboard_fclub/kbd_biblio_kicad/keyboard_parts.lib")(options "")(descr ""))
 )
