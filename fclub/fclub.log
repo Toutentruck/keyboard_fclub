@@ -1,0 +1,194 @@
+Conversion STEP vers Solid Edge
+Date: vendredi,août 30,2024 01:20
+Fichier source: C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\fclub.step
+Auteur: Pcbnew
+Organisation: Kicad
+Système source: KiCad to STEP converter
+
+Matériel:
+Processeur: AMD Ryzen 5 3600 6-Core Processor              
+Système d'exploitation: Windows 10
+Mémoire installée: 15.93 GB
+
+Informations sur le logiciel
+Version de Parasolid: 31.1.255
+Version de PSBodyShop: 31.1.110
+Version de l'adaptateur Step: 5.0.48
+Version de Solid Edge: 220.00.00.104 x64
+
+Options d'importation STEP
+Importer les corps à facettes : Actif
+Importer les corps de vérification : Désactivé
+Importer les courbes : Actif
+Importer ce qu'il ne faut pas enregistrer : Actif
+Importer plusieurs corps en tant qu'un seul fichier pièce : Actif
+Importer les surfaces cousues : Actif
+Importer les solides booléens : Actif
+Créer fonction technologique de base: Actif
+Simplifier géométrie: Actif
+Importer les courbes de gravure : Actif
+Importer le guide : C:
+Importer les surfaces cousues : Actif
+Importer les surfaces : Actif
+Importer le chemin en sortie : C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub
+Importer la possibilité de chemin de sortie par défaut : Actif
+Importer PMI: Désactivé.
+Importer le chemin : 
+
+Conversion vers les types de données Parasolid...
++Assemblage de départ: 1
++Fichier d'assemblage SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\fclub.asm créé
+|--+Assemblage de départ: 2
+|--+Fichier d'assemblage SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\D_SOD-323.asm créé
+|  |--+Fichier de pièce SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\D_SOD_323.par créé
+|--+Total de pièces:  2
+|--+Assemblages: 0
+|--+Corps solides: 2
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\D_SOD-323.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier d'assemblage SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\R_0201_0603Metric.asm créé
+|  |--+Fichier de pièce SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\R_0201_0603Metric.par créé
+|--+Total de pièces:  2
+|--+Assemblages: 0
+|--+Corps solides: 2
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier d'assemblage SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\C_0201_0603Metric.asm créé
+|  |--+Fichier de pièce SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\C_0201_0603Metric.par créé
+|--+Total de pièces:  2
+|--+Assemblages: 0
+|--+Corps solides: 2
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\D_SOD-323.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\R_0201_0603Metric.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\D_SOD-323.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\D_SOD-323.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\C_0201_0603Metric.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\D_SOD-323.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\D_SOD-323.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\R_0201_0603Metric.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier d'assemblage SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\LQFP-32_7x7mm_P0.8mm.asm créé
+|  |--+Fichier de pièce SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\LQFP_32_7x7mm_P08mm.par créé
+|--+Total de pièces:  2
+|--+Assemblages: 0
+|--+Corps solides: 2
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\D_SOD-323.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\D_SOD-323.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier d'assemblage SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\SW_SPST_TL3342.asm créé
+|  |--+Fichier de pièce SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\SW_SPST_TL3342.par créé
+|--+Total de pièces:  2
+|--+Assemblages: 0
+|--+Corps solides: 2
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\C_0201_0603Metric.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\C_0201_0603Metric.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier d'assemblage SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.asm créé
+|  |--+Fichier de pièce SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\USB_C_Receptacle_16P_TopMnt_Horizontal_GCT_USB4105-xx-A.par créé
+|--+Total de pièces:  72
+|--+Assemblages: 0
+|--+Corps solides: 72
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Assemblage de départ: 2
+|--+Fichier C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\C_0201_0603Metric.asm en cours de réutilisation
+|--+Total de pièces:  0
+|--+Assemblages: 0
+|--+Corps solides: 0
+|--+Corps de type surfaces: 0
+|--+Assemblage d'arrivée: 2
+|--+Fichier de pièce SE C:\Users\valen\Documents\GitHub\keyboard_fclub\fclub\fclub_PCB.par créé
++Total de pièces:  8
++Assemblages: 6
++Corps solides: 2
++Corps de type surfaces: 0
++Assemblage d'arrivée: 1
+Fin de  l'opération de conversion
+Temps total nécessaire à la conversion et au post-traitement:00 : 00 : 04

@@ -461,7 +461,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "col1"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -471,7 +476,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "fclub.step",
       "svg": "",
       "vrml": ""
     },
